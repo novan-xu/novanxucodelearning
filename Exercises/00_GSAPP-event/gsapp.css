@@ -1,0 +1,29 @@
+.neon {
+    color: #b6d23d;
+    text-decoration: non;
+  }
+  
+  body { 
+    font-family: "Roboto", sans-serif;
+    background: rgb(130, 130, 222);
+  }
+
+  body{
+    height:100%;
+  }
+
+  .container{
+    background: yellow;
+}
+
+.left{
+    width: 60%;
+    height: 100%;
+    float:left;
+}
+
+.right{
+    width:40%;
+    height: 100%;
+    float:left;
+}

@@ -1,0 +1,16 @@
+body {
+    background: rgb(121, 221, 221);
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.container{
+    background: rgb(31, 100, 100)
+}
+
+.pullquote{
+    color:blueviolet
+}
+
+div {
+    padding: 20px 40px
+}
