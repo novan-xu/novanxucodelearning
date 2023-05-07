@@ -8,8 +8,26 @@ h2 {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
 p {
     color: #89c8e4;
     font-family: Roboto;
 }
 
+li a {
+    display: block;
+    color: #000;
+    padding: 10px;
+    font-size: 10pt;
+    text-decoration: none;
+    text-align: left;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+  li a:hover {
+    background-color: #ddd;
+  }
+  
